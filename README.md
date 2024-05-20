@@ -9,3 +9,6 @@ to run the code and the database, you must:
 -perform npm start on both "Backend" and "admin-dashboard"  chronologically
 
 afer you download it, separate the .ino file to an easily accessible location like downloads just in case the code gets messed up if you dont move it in the first place
+
+
+in collaboration with my classmate and irl friend mzee321
